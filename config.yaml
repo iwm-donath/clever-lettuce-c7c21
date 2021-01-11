@@ -12,6 +12,7 @@ params:
         url: /
         style: link
         has_subnav: false
+        icon_class: vimeo
       - label: Docs
         url: /docs
         style: link
