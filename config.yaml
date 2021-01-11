@@ -20,7 +20,7 @@ params:
       - label: Blog
         url: /blog
         style: link
-        has_subnav: false
+        has_subnav: true
       - label: Sample Pages
         url: '#'
         style: link
