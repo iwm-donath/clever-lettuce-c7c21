@@ -10,7 +10,7 @@ params:
     nav_links:
       - label: Startseite
         url: /
-        style: primary
+        style: link
         has_subnav: false
       - label: Docs
         url: /docs
